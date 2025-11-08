@@ -1,0 +1,6 @@
+C:\Users\CRISTIAN ALEXANDER\Documents\t3.trabajo.ing\enerespaldo\enerespaldo\bin\Debug\enerespaldo.dll
+C:\Users\CRISTIAN ALEXANDER\Documents\t3.trabajo.ing\enerespaldo\enerespaldo\bin\Debug\enerespaldo.pdb
+C:\Users\CRISTIAN ALEXANDER\Documents\t3.trabajo.ing\enerespaldo\enerespaldo\obj\Debug\enerespaldo.csproj.AssemblyReference.cache
+C:\Users\CRISTIAN ALEXANDER\Documents\t3.trabajo.ing\enerespaldo\enerespaldo\obj\Debug\enerespaldo.csproj.CoreCompileInputs.cache
+C:\Users\CRISTIAN ALEXANDER\Documents\t3.trabajo.ing\enerespaldo\enerespaldo\obj\Debug\enerespaldo.dll
+C:\Users\CRISTIAN ALEXANDER\Documents\t3.trabajo.ing\enerespaldo\enerespaldo\obj\Debug\enerespaldo.pdb
