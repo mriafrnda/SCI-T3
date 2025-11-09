@@ -21,11 +21,12 @@ namespace monitoreo
                 for (int i = 0; i < sensores.Length; i++)
                 {
                     sensores[i] = num.Next(25, 36);
+                    float porcentajeHumo = (float)random.NextDouble() * 5;
                     string sensortemp = "sensor de temperatura " + (i + 1);
                     string sensorhumo = "sensor de humo " + (i + 1);
                     Console.WriteLine("|" + sensortemp + ": " + sensores[i] + "°          | " + sensorhumo + ": " + sensores[i] + "°           |");
                     Console.WriteLine("|                                      |                                 |");
-                    if (sensores[i] > 57)
+                    if (sensores[i] > 57 || porcentajeHumo >= 2.5f)
                     {
                         sonido.alarma();
                         Console.ForegroundColor = ConsoleColor.Red;
@@ -72,3 +73,4 @@ namespace monitoreo
         }
     }
 }
+
