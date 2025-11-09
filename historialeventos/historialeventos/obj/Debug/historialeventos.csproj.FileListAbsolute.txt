@@ -1,6 +1,0 @@
-C:\Users\CRISTIAN ALEXANDER\Documents\t3.trabajo.ing\enerespaldo\historial\historialeventos\historialeventos\bin\Debug\historialeventos.dll
-C:\Users\CRISTIAN ALEXANDER\Documents\t3.trabajo.ing\enerespaldo\historial\historialeventos\historialeventos\bin\Debug\historialeventos.pdb
-C:\Users\CRISTIAN ALEXANDER\Documents\t3.trabajo.ing\enerespaldo\historial\historialeventos\historialeventos\obj\Debug\historialeventos.csproj.AssemblyReference.cache
-C:\Users\CRISTIAN ALEXANDER\Documents\t3.trabajo.ing\enerespaldo\historial\historialeventos\historialeventos\obj\Debug\historialeventos.csproj.CoreCompileInputs.cache
-C:\Users\CRISTIAN ALEXANDER\Documents\t3.trabajo.ing\enerespaldo\historial\historialeventos\historialeventos\obj\Debug\historialeventos.dll
-C:\Users\CRISTIAN ALEXANDER\Documents\t3.trabajo.ing\enerespaldo\historial\historialeventos\historialeventos\obj\Debug\historialeventos.pdb
